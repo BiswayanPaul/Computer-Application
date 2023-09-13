@@ -1,0 +1,2 @@
+Ite needed: 7
+Value of x is: 0.5177573562
